@@ -8,7 +8,7 @@ This Python script analyzes kitchen reviews from a CSV file, performs sentiment 
 **Clone the repository:
 bash**
    
-    git clone https://github.com/your-username/kitchen-reviews-summarizer.git
+    [git clone https://github.com/your-username/kitchen-reviews-summarizer.git](https://github.com/MENAKAANBUKKARASU/kitchen_Review_model.git)
 
     
 **Navigate to the project directory:
