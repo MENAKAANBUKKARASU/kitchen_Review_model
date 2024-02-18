@@ -22,7 +22,7 @@ The Kitchen Reviews Summarizer is a powerful Python tool designed to transform t
 **Clone the repository:
 bash**
    
-    [git clone https://github.com/your-username/kitchen-reviews-summarizer.git](https://github.com/MENAKAANBUKKARASU/kitchen_Review_model.git)
+    [[git clone https://github.com/your-username/kitchen-reviews-summarizer.git]](https://github.com/MENAKAANBUKKARASU/kitchen_Review_model.git)
 
     
 **Navigate to the project directory:
