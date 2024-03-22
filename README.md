@@ -53,3 +53,12 @@ bash**
     
     Adjust the sentences_count parameter in the generate_summary function to control the length of the overall summary.
     Customize the script based on your specific CSV file structure and requirements
+
+**Screenshots**
+
+![Screenshot (207)](https://github.com/MENAKAANBUKKARASU/kitchen_Review_model/assets/113598770/68306fee-b716-450a-b9da-2ec288c6259b)
+
+![Screenshot (206)](https://github.com/MENAKAANBUKKARASU/kitchen_Review_model/assets/113598770/aa837dcb-82d1-498e-a371-9179806dbf0c)
+
+![image](https://github.com/MENAKAANBUKKARASU/kitchen_Review_model/assets/113598770/d27afe6b-24dc-4bb4-804e-6639de8226e5)
+
